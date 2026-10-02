@@ -18,7 +18,7 @@
 
 - ⚙️ **[laanaya.me](https://laanaya.me)** - automation blueprints should be accessible
 - 🏍️ **[braap.app](https://openclaw.ai)** - meet other motorcyclists and ride together (ios/android)
-- 🛒 **[bonuswijzer](https://clawhub.ai)** all the deals from supermarkets in one app (ios) 
+- 🛒 **bonuswijzer** all the deals from supermarkets in one app (ios) - wip
 
 ## GitHub Activity
 
