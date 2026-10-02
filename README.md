@@ -29,5 +29,5 @@
 - **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
 
 ## Connect
-[[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steipete)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)](https://www.linkedin.com/in/alaanaya/)
+[![LinkedIn](https://img.shields.io/badge/-Amin_Laanaya-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaanaya/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bobcycle)
